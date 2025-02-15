@@ -11,6 +11,3 @@ This project applies **deep learning** to **satellite imagery** for land-use cla
 - **Python**, **PyTorch**, **Torchvision**  
 - **ResNet50**, **Faster R-CNN**, **DeepLabV3**  
 - **OpenCV**, **PIL**, **Matplotlib**  
-- **Jupyter Notebook**  
-
-## 📂 Project Structure  
